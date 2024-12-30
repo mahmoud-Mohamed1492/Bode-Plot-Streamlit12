@@ -1,0 +1,16 @@
+streamlit==1.27.2
+streamlit-camera-input-live==0.2.0
+streamlit-card==0.0.61
+streamlit-embedcode==0.1.2
+streamlit-extras==0.3.2
+streamlit-faker==0.0.2
+streamlit-image-coordinates==0.1.6
+streamlit-js-eval==0.1.5
+streamlit-keyup==0.2.0
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==1.0.2
+numpy==1.25.2
+control==0.10.1
+matplotlib==3.8.0
+matplotlib-inline==0.1.7
+sympy==1.12
